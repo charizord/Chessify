@@ -1,5 +1,7 @@
 # Default ignored files
+.DS_Store
 /shelf/
 /.idea/workspace.xml
 local.properties
 .gradle
+app/build
