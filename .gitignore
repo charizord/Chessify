@@ -1,0 +1,10 @@
+# Default ignored files
+.DS_Store
+/shelf/
+local.properties
+.gradle
+.idea
+app/build
+app/.gitignore
+app/src/main/main.iml
+
